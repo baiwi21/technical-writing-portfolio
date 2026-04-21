@@ -1,25 +1,32 @@
-# Task Manager API
+# Task Manager System API
 
-This is a REST API for managing tasks.
+This is a REST API for managing tasks in the Task Manager System.
 
 ---
 
-## Base URL
+## 🌐 Base URL
 https://api.taskmanager.com
 
 ---
 
-## Authentication
-Bearer token required in header:
+## 🔐 Authentication
+
+All requests require a Bearer token:
+
+Authorization: Bearer <your_token>
+
 
 ---
 
-## Endpoints
+## 📌 Endpoints
+
+---
 
 ### GET /tasks
-Returns all tasks.
 
-**Response:**
+Returns a list of all tasks.
+
+#### Response
 ```json
 [
   {
