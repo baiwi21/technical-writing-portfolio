@@ -1,56 +1,47 @@
-# Task Manager System – Product Documentation
+# 👩‍💻 Varvara Fadeeva — Technical Writing Portfolio
 
-Hi! I'm Varvara Fadeeva, Technical Writer with an engineering background transitioning into IT documentation.
-
-This repository contains structured documentation for a fictional SaaS product: **Task Manager System**.
-
----
-
-## 📌 About the Product
-
-Task Manager System is a simple SaaS application designed to help users manage personal and team tasks efficiently.
-
-The system includes:
-- Web application (User Interface)
-- REST API for developers
-- Knowledge Base for end users
+Technical Writer with engineering background.
+Focused on clear, structured, and user-friendly documentation for IT products.
 
 ---
 
-## 📁 Documentation Structure
-
-### 👤 User Guide
-End-user instructions for using the Task Manager application.
-
-### ⚙️ API Documentation
-REST API reference with endpoints, requests, responses, and authentication.
-
-### 📚 Knowledge Base
-Help Center articles for common user issues.
+## 🔧 Skills
+- Technical Documentation
+- API Documentation (REST, JSON)
+- User Guides & Knowledge Base
+- Markdown, Git
 
 ---
 
-## 🧠 Skills Demonstrated
+## 📂 Portfolio Projects
 
-- Technical Writing  
-- API Documentation (REST, JSON)  
-- User Experience Writing (UX Writing)  
-- Knowledge Base Creation  
-- Requirements Structuring  
-- Markdown  
-- Git / GitHub workflows  
+### 🟢 Task Manager — User Guide
+User documentation for a web-based task management application.  
+Includes installation steps, core features, and user workflows.
+
+👉 [View User Guide](./task-manager/user-guide.md)
 
 ---
 
-## 🎯 Purpose of this project
+### 🔵 Task Manager API Documentation
+REST API documentation with endpoints, request/response examples, and JSON samples.
 
-This project demonstrates my ability to:
-- Create structured technical documentation
-- Translate complex systems into simple user instructions
-- Work with API documentation formats
-- Build documentation systems for SaaS products
+👉 [View API Docs](./task-manager/api.md)
 
 ---
 
-## 📫 Contact
-Email: baiwi2145@gmail.com
+### 🟡 Knowledge Base Articles
+Collection of help center articles (FAQ, troubleshooting, onboarding).
+
+👉 [View Articles](./knowledge-base/)
+
+---
+
+## 🛠 Tools
+Markdown | Git | Draw.io | MS Word
+
+---
+
+## 📬 Contact
+Email: baiwi2145@gmail.com 
+Location: Armenia (Open to remote work)
