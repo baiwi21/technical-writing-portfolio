@@ -4,7 +4,7 @@ Hi! I'm Varvara Fadeeva, Technical Writer with an engineering background transit
 
 This portfolio demonstrates my ability to create clear, structured, and user-friendly technical documentation.
 
----
+---------------------------
 
 ## 📌 Projects
 
@@ -17,7 +17,7 @@ REST API documentation with JSON examples and endpoints.
 ### 3. Knowledge Base Articles
 Help center documentation for end users.
 
----
+---------------------------
 
 ## 🧠 Skills
 
@@ -29,7 +29,7 @@ Help center documentation for end users.
 - Markdown  
 - Git / GitHub  
 
----
+----------------------------
 
 ## 🛠 Tools
 
@@ -38,7 +38,10 @@ Help center documentation for end users.
 - MS Word  
 - Draw.io  
 
----
+-----------------------------
 
 ## 📫 Contact
 Email: drakosha2018@yandex.ru
+
+------------------------------
+These documents are written as if for a real SaaS product.
