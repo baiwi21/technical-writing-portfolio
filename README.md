@@ -1,32 +1,32 @@
-# Task Manager System – Technical Documentation
+# Task Manager System – Product Documentation
 
 Hi! I'm Varvara Fadeeva, Technical Writer with an engineering background transitioning into IT documentation.
 
-This repository contains structured documentation for a fictional SaaS product: Task Manager System.
+This repository contains structured documentation for a fictional SaaS product: **Task Manager System**.
 
 ---
 
 ## 📌 About the Product
 
-Task Manager System is a simple web application for managing personal and team tasks.
+Task Manager System is a simple SaaS application designed to help users manage personal and team tasks efficiently.
 
-It includes:
-- Web user interface
+The system includes:
+- Web application (User Interface)
 - REST API for developers
-- Knowledge base for end users
+- Knowledge Base for end users
 
 ---
 
 ## 📁 Documentation Structure
 
 ### 👤 User Guide
-Step-by-step instructions for end users.
+End-user instructions for using the Task Manager application.
 
 ### ⚙️ API Documentation
-REST API reference with endpoints, requests, and responses.
+REST API reference with endpoints, requests, responses, and authentication.
 
 ### 📚 Knowledge Base
-Help center articles for common user questions.
+Help Center articles for common user issues.
 
 ---
 
@@ -34,13 +34,23 @@ Help center articles for common user questions.
 
 - Technical Writing  
 - API Documentation (REST, JSON)  
-- User Guides & UX Writing  
+- User Experience Writing (UX Writing)  
 - Knowledge Base Creation  
 - Requirements Structuring  
 - Markdown  
-- Git / GitHub  
+- Git / GitHub workflows  
+
+---
+
+## 🎯 Purpose of this project
+
+This project demonstrates my ability to:
+- Create structured technical documentation
+- Translate complex systems into simple user instructions
+- Work with API documentation formats
+- Build documentation systems for SaaS products
 
 ---
 
 ## 📫 Contact
-Email: drakosha2018@yandex.ru
+Email: baiwi2145@gmail.com
