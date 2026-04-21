@@ -1,52 +1,59 @@
-# Task Manager System – User Guide
+# Task Manager — User Guide
 
-Welcome to Task Manager System.
+## Overview
 
-This guide will help you understand how to use the application step by step.
-
----
-
-## 🚀 Getting Started
-
-### 1. Create an account
-Click **Sign Up** and enter your email and password.
-
-### 2. Log in
-Use your credentials to access your dashboard.
+Task Manager is a web-based application designed to help users create, manage, and track daily tasks.
 
 ---
 
-## 📝 Creating a Task
+## Getting Started
+
+### Create an Account
+
+1. Open the application in your browser
+2. Click **Sign Up**
+3. Enter your email and password
+4. Click **Create Account**
+
+---
+
+## Creating a Task
 
 1. Click **New Task**
-2. Enter a title for your task
-3. Click **Save**
-
-Your task will now appear in the task list.
-
----
-
-## 🛠 Managing Tasks
-
-You can:
-- ✏ Edit tasks  
-- 🗑 Delete tasks  
-- ✅ Mark tasks as completed  
+2. Enter a task title
+3. (Optional) Add a description
+4. Click **Save**
 
 ---
 
-## 🔔 Notifications
+## Managing Tasks
 
-The system will notify you about:
-- upcoming deadlines  
-- overdue tasks  
+### Mark Task as Completed
+
+* Click the checkbox next to the task
+
+### Edit Task
+
+* Click the task title
+* Update the information
+* Click **Save**
+
+### Delete Task
+
+* Click the delete icon next to the task
 
 ---
 
-## ❓ FAQ
+## User Flow Example
 
-### Can I recover deleted tasks?
-No, deleted tasks cannot be restored.
+1. User logs in
+2. Creates a task
+3. Updates task status
+4. Completes task
 
-### Can I edit a task after creating it?
-Yes, you can edit any task at any time.
+---
+
+## Notes
+
+* All changes are saved automatically
+* Tasks can be edited at any time
