@@ -1,34 +1,23 @@
-# Task Manager System – Help Center
+# FAQ
 
-This section contains answers to common user questions.
+## What is Task Manager?
 
----
-
-## 🔐 How to Reset Your Password
-
-1. Go to the login page  
-2. Click **Forgot Password**  
-3. Enter your email address  
-4. Check your inbox for a reset link  
+Task Manager is a tool for organizing and tracking tasks.
 
 ---
 
-## 🆕 How to Create an Account
+## Do I need an account?
 
-1. Click **Sign Up**  
-2. Enter your email and password  
-3. Confirm your email address  
+Yes, you must create an account to use the application.
 
 ---
 
-## 🗑 How to Delete a Task
+## Can I edit tasks?
 
-1. Open the task  
-2. Click **Delete**  
-3. Confirm the action  
+Yes, tasks can be edited at any time.
 
 ---
 
-## 🧠 Tip
+## Is my data saved automatically?
 
-If you cannot find an answer here, contact support.
+Yes, all changes are saved instantly.
