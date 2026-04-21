@@ -1,47 +1,44 @@
 # Technical Writing Portfolio
 
-Hi! I'm Varvara Fadeeva, Technical Writer with an engineering background transitioning into IT documentation.
+Hi! I'm Varvara Fadeeva, Technical Writer with engineering background transitioning into IT documentation.
 
-This portfolio demonstrates my ability to create clear, structured, and user-friendly technical documentation.
+This repository represents documentation for a fictional SaaS product: Task Manager System.
 
----------------------------
+---
 
-## 📌 Projects
+## 📌 What is this project?
 
-### 1. User Guide – Task Manager App
+A simple task management system with:
+- Web application (user guide)
+- REST API (developer documentation)
+- Help Center (knowledge base)
+
+---
+
+## 📁 Documentation
+
+### 1. User Guide
 Step-by-step instructions for end users.
 
-### 2. API Documentation – Task Manager API
-REST API documentation with JSON examples and endpoints.
+### 2. API Documentation
+REST API with JSON examples and endpoints.
 
-### 3. Knowledge Base Articles
-Help center documentation for end users.
+### 3. Knowledge Base
+Help articles for users.
 
----------------------------
+---
 
-## 🧠 Skills
+## 🧠 Skills demonstrated
 
 - Technical Writing  
-- API Documentation (REST, JSON)  
-- User Guides  
-- Knowledge Base Articles  
-- Requirements Analysis  
+- API Documentation  
+- User Documentation  
+- Knowledge Base Writing  
+- Requirements Structuring  
 - Markdown  
-- Git / GitHub  
-
-----------------------------
-
-## 🛠 Tools
-
 - GitHub  
-- Markdown  
-- MS Word  
-- Draw.io  
 
------------------------------
+---
 
 ## 📫 Contact
-Email: drakosha2018@yandex.ru
-
-------------------------------
-These documents are written as if for a real SaaS product.
+drakosha2018@yandex.ru
