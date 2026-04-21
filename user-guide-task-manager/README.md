@@ -1,37 +1,41 @@
 # Task Manager – User Guide
 
-This document explains how to use the Task Manager application step by step.
+This guide explains how to use Task Manager System.
 
-## Contents
-- Getting started
-- Creating tasks
-- Managing tasks
-  
------------------------------------
+---
 
 ## Getting Started
 
 ### Step 1: Create an account
-Click "Sign Up" and enter your email and password.
+Click **Sign Up** and enter your email and password.
 
 ### Step 2: Log in
 Use your credentials to access the system.
 
------------------------------------
+---
 
 ## Creating a Task
-1. Click "New Task"  
-2. Enter task title  
-3. Save task  
 
-------------------------------------
+1. Click **New Task**
+2. Enter task title
+3. Click **Save**
+
+---
 
 ## Managing Tasks
-- Edit task  
-- Delete task  
-- Mark as completed  
 
-------------------------------------
+You can:
+- Edit a task  
+- Delete a task  
+- Mark a task as completed  
+
+---
+
+## Notifications
+
+The system notifies you about upcoming deadlines.
+
+---
 
 ## FAQ
 
