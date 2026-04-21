@@ -1,81 +1,114 @@
-# Task Manager System API
+# Task Manager API
 
-This is a REST API for managing tasks in the Task Manager System.
+## Overview
+
+This API allows developers to interact with the Task Manager system.
 
 ---
 
-## 🌐 Base URL
+## Base URL
+
+```
 https://api.taskmanager.com
-
----
-
-## 🔐 Authentication
-
-All requests require a Bearer token:
-
-```
-Authorization: Bearer <your_token>
 ```
 
 ---
 
-## 📌 Endpoints
+## Authentication
 
----
+All requests require an API key.
 
-### ➕ Create a task
-
-**POST** `/tasks`
-
-Creates a new task.
-
-#### Request Body
-```json
-{
-  "title": "New task"
-}
 ```
-
-#### Response
-```json
-{
-  "id": 2,
-  "title": "New task",
-  "status": "open"
-}
+Authorization: Bearer YOUR_API_KEY
 ```
 
 ---
 
-### 📄 Get all tasks
+## Endpoints
 
-**GET** `/tasks`
+### Get All Tasks
 
-#### Response
+**Request:**
+
+```
+GET /tasks
+```
+
+**Response:**
+
 ```json
 [
   {
     "id": 1,
     "title": "Buy groceries",
-    "status": "open"
-  },
-  {
-    "id": 2,
-    "title": "New task",
-    "status": "open"
+    "completed": false
   }
 ]
 ```
 
 ---
 
-### 🗑️ Delete a task
+### Create Task
 
-**DELETE** `/tasks/{id}`
+**Request:**
 
-#### Response
+```
+POST /tasks
+```
+
+**Body:**
+
 ```json
 {
-  "message": "Task deleted successfully"
+  "title": "Learn API documentation",
+  "completed": false
 }
 ```
+
+**Response:**
+
+```json
+{
+  "id": 2,
+  "title": "Learn API documentation",
+  "completed": false
+}
+```
+
+---
+
+### Update Task
+
+**Request:**
+
+```
+PUT /tasks/{id}
+```
+
+**Body:**
+
+```json
+{
+  "completed": true
+}
+```
+
+---
+
+### Delete Task
+
+**Request:**
+
+```
+DELETE /tasks/{id}
+```
+
+---
+
+## Status Codes
+
+* 200 — Success
+* 201 — Created
+* 400 — Bad Request
+* 401 — Unauthorized
+* 404 — Not Found
