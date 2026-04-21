@@ -1,44 +1,46 @@
-# Technical Writing Portfolio
+# Task Manager System – Technical Documentation
 
-Hi! I'm Varvara Fadeeva, Technical Writer with engineering background transitioning into IT documentation.
+Hi! I'm Varvara Fadeeva, Technical Writer with an engineering background transitioning into IT documentation.
 
-This repository represents documentation for a fictional SaaS product: Task Manager System.
-
----
-
-## 📌 What is this project?
-
-A simple task management system with:
-- Web application (user guide)
-- REST API (developer documentation)
-- Help Center (knowledge base)
+This repository contains structured documentation for a fictional SaaS product: Task Manager System.
 
 ---
 
-## 📁 Documentation
+## 📌 About the Product
 
-### 1. User Guide
+Task Manager System is a simple web application for managing personal and team tasks.
+
+It includes:
+- Web user interface
+- REST API for developers
+- Knowledge base for end users
+
+---
+
+## 📁 Documentation Structure
+
+### 👤 User Guide
 Step-by-step instructions for end users.
 
-### 2. API Documentation
-REST API with JSON examples and endpoints.
+### ⚙️ API Documentation
+REST API reference with endpoints, requests, and responses.
 
-### 3. Knowledge Base
-Help articles for users.
+### 📚 Knowledge Base
+Help center articles for common user questions.
 
 ---
 
-## 🧠 Skills demonstrated
+## 🧠 Skills Demonstrated
 
 - Technical Writing  
-- API Documentation  
-- User Documentation  
-- Knowledge Base Writing  
+- API Documentation (REST, JSON)  
+- User Guides & UX Writing  
+- Knowledge Base Creation  
 - Requirements Structuring  
 - Markdown  
-- GitHub  
+- Git / GitHub  
 
 ---
 
 ## 📫 Contact
-drakosha2018@yandex.ru
+Email: drakosha2018@yandex.ru
