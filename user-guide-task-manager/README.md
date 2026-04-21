@@ -1,4 +1,3 @@
-</>Markdown 
 # Task Manager System – User Guide
 
 Welcome to Task Manager System.
